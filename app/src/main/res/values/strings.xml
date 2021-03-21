@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Photo Frame FlowerPF</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1332480513983290/6424889465</string>
+    <string name="adMob_app_id">ca-app-pub-1332480513983290~2496063371</string>
+    <string name="file_provider_authority" translatable="false">com.BestofallPhotography.PhotoFrameFlowerPF.fileprovider</string>
+    <string name="toast_unexpected_error">Unexpected Error</string>
+    <string name="open">Open</string>
+    <string name="share">Share</string>
+    <string name="frames">Frames</string>
+    <string name="save">Save</string>
+    <string name="more_apps">More Apps</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="try_new">Try Again New</string>
+
+    <string name="facebook_app_id">476609303040614</string>
+</resources>
